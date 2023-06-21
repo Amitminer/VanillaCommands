@@ -1,0 +1,12 @@
+---
+name: VanillaCommands
+version: 0.0.1
+main: VanillaCommands\VanillaCommands
+author: AmitxD
+api: 5.0.0
+website: https://github.com/Amitminer/VanillaCommands/
+permissions:
+  vanilla.command.setblock:
+    description: "Allows the user to run the setblock command"
+    default: op
+...
